@@ -18,6 +18,6 @@ A Java-based calculator program that supports basic arithmetic operations, Fibon
    - Mean of array elements
 
 By
-Vedant Singh Thakur
-23070126144
-AIML B3
+- Vedant Singh Thakur
+- 23070126144
+- AIML B3

@@ -16,3 +16,8 @@ A Java-based calculator program that supports basic arithmetic operations, Fibon
 3. **Array Operations**
    - Sum of array elements
    - Mean of array elements
+
+By
+Vedant Singh Thakur
+23070126144
+AIML B3
